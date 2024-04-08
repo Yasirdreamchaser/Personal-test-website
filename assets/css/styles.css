@@ -197,8 +197,8 @@ body.dark-theme{
 }
 
 .perfil__content{
-  width: 100px;
-  height: 100px;
+  width: 180px;
+  height: 180px;
   border: 10px solid var(--first-color);
   border-radius: 50%;
   overflow: hidden;
@@ -216,7 +216,8 @@ body.dark-theme{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: auto;
-    margin-bottom: auto; /* image well placed */
+    margin-bottom: auto;
+   
  
 }
 
